@@ -2,7 +2,7 @@ mkdir project1
 cd project1
 vi wget_script
 #!/bin/bash // hashbang line 
-	wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR151/ERR1513644/10567.BLANK.1.1F.fastq.gz
+	wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR1XX/ERRXXXXX/XXXXX.BLANK.1.1F.fastq.gz
  .
  .
  .
