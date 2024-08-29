@@ -1,7 +1,3 @@
-Sure! Here's a draft for your README file, focusing on describing the project without including the actual code:
-
----
-
 # Microbial-data-analysis
 
 This repository contains a collection of Bash scripts developed for performing QIIME2-based analysis on gut-microbial data. The scripts automate various stages of the analysis pipeline, including data acquisition, quality control, sequence processing, and taxonomic classification.
