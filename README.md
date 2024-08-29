@@ -37,10 +37,10 @@ Installation commands for these tools are provided in the respective script comm
 
 ## Usage
 
-1. Download the dataset** using the provided script, and ensure it is executable.
-2. Run quality control** checks on the raw sequence files using FastQC and MultiQC.
-3. Count sequences** per sample and filter out low-quality samples.
-4. Process the sequences** with `fastp` to ensure high-quality data.
-5. Execute the QIIME2 commands** to perform taxonomic analysis and generate visualizations.
+1. **Download the dataset** using the provided script, and ensure it is executable.
+2. **Run quality control** checks on the raw sequence files using FastQC and MultiQC.
+3. **Count sequences** per sample and filter out low-quality samples.
+4. **Process the sequences** with `fastp` to ensure high-quality data.
+5. **Execute the QIIME2 commands** to perform taxonomic analysis and generate visualizations.
 
 Each script is designed to be run independently, allowing you to tailor the workflow to your specific needs.
